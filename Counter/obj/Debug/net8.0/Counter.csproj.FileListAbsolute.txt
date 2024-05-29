@@ -1,0 +1,34 @@
+D:\3_курс\test-1\Counter\bin\Debug\net8.0\Counter.deps.json
+D:\3_курс\test-1\Counter\bin\Debug\net8.0\Counter.dll
+D:\3_курс\test-1\Counter\bin\Debug\net8.0\Counter.pdb
+D:\3_курс\test-1\Counter\obj\Debug\net8.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\3_курс\test-1\Counter\obj\Debug\net8.0\Counter.AssemblyInfoInputs.cache
+D:\3_курс\test-1\Counter\obj\Debug\net8.0\Counter.AssemblyInfo.cs
+D:\3_курс\test-1\Counter\obj\Debug\net8.0\Counter.csproj.CoreCompileInputs.cache
+D:\3_курс\test-1\Counter\obj\Debug\net8.0\Counter.dll
+D:\3_курс\test-1\Counter\obj\Debug\net8.0\refint\Counter.dll
+D:\3_курс\test-1\Counter\obj\Debug\net8.0\Counter.pdb
+D:\3_курс\test-1\Counter\obj\Debug\net8.0\ref\Counter.dll
+D:\3_курс\2 sem\тиопо\test-1\Counter\bin\Debug\net8.0\Counter.deps.json
+D:\3_курс\2 sem\тиопо\test-1\Counter\bin\Debug\net8.0\Counter.dll
+D:\3_курс\2 sem\тиопо\test-1\Counter\bin\Debug\net8.0\Counter.pdb
+D:\3_курс\2 sem\тиопо\test-1\Counter\obj\Debug\net8.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\3_курс\2 sem\тиопо\test-1\Counter\obj\Debug\net8.0\Counter.AssemblyInfoInputs.cache
+D:\3_курс\2 sem\тиопо\test-1\Counter\obj\Debug\net8.0\Counter.AssemblyInfo.cs
+D:\3_курс\2 sem\тиопо\test-1\Counter\obj\Debug\net8.0\Counter.csproj.CoreCompileInputs.cache
+D:\3_курс\2 sem\тиопо\test-1\Counter\obj\Debug\net8.0\Counter.dll
+D:\3_курс\2 sem\тиопо\test-1\Counter\obj\Debug\net8.0\refint\Counter.dll
+D:\3_курс\2 sem\тиопо\test-1\Counter\obj\Debug\net8.0\Counter.pdb
+D:\3_курс\2 sem\тиопо\test-1\Counter\obj\Debug\net8.0\ref\Counter.dll
+D:\3_курс\os_lab20\Counter\bin\Debug\net8.0\Counter.deps.json
+D:\3_курс\os_lab20\Counter\bin\Debug\net8.0\Counter.dll
+D:\3_курс\os_lab20\Counter\bin\Debug\net8.0\Counter.pdb
+D:\3_курс\os_lab20\Counter\obj\Debug\net8.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\3_курс\os_lab20\Counter\obj\Debug\net8.0\Counter.AssemblyInfoInputs.cache
+D:\3_курс\os_lab20\Counter\obj\Debug\net8.0\Counter.AssemblyInfo.cs
+D:\3_курс\os_lab20\Counter\obj\Debug\net8.0\Counter.csproj.CoreCompileInputs.cache
+D:\3_курс\os_lab20\Counter\obj\Debug\net8.0\Counter.sourcelink.json
+D:\3_курс\os_lab20\Counter\obj\Debug\net8.0\Counter.dll
+D:\3_курс\os_lab20\Counter\obj\Debug\net8.0\refint\Counter.dll
+D:\3_курс\os_lab20\Counter\obj\Debug\net8.0\Counter.pdb
+D:\3_курс\os_lab20\Counter\obj\Debug\net8.0\ref\Counter.dll

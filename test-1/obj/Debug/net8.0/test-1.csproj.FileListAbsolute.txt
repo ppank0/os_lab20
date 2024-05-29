@@ -1,0 +1,55 @@
+D:\3_курс\test-1\test-1\bin\Debug\net8.0\test-1.exe
+D:\3_курс\test-1\test-1\bin\Debug\net8.0\test-1.deps.json
+D:\3_курс\test-1\test-1\bin\Debug\net8.0\test-1.runtimeconfig.json
+D:\3_курс\test-1\test-1\bin\Debug\net8.0\test-1.dll
+D:\3_курс\test-1\test-1\bin\Debug\net8.0\test-1.pdb
+D:\3_курс\test-1\test-1\bin\Debug\net8.0\Counter.dll
+D:\3_курс\test-1\test-1\bin\Debug\net8.0\Counter.pdb
+D:\3_курс\test-1\test-1\obj\Debug\net8.0\test-1.csproj.AssemblyReference.cache
+D:\3_курс\test-1\test-1\obj\Debug\net8.0\test-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3_курс\test-1\test-1\obj\Debug\net8.0\test-1.AssemblyInfoInputs.cache
+D:\3_курс\test-1\test-1\obj\Debug\net8.0\test-1.AssemblyInfo.cs
+D:\3_курс\test-1\test-1\obj\Debug\net8.0\test-1.csproj.CoreCompileInputs.cache
+D:\3_курс\test-1\test-1\obj\Debug\net8.0\test-1.csproj.CopyComplete
+D:\3_курс\test-1\test-1\obj\Debug\net8.0\test-1.dll
+D:\3_курс\test-1\test-1\obj\Debug\net8.0\refint\test-1.dll
+D:\3_курс\test-1\test-1\obj\Debug\net8.0\test-1.pdb
+D:\3_курс\test-1\test-1\obj\Debug\net8.0\test-1.genruntimeconfig.cache
+D:\3_курс\test-1\test-1\obj\Debug\net8.0\ref\test-1.dll
+D:\3_курс\2 sem\тиопо\test-1\test-1\bin\Debug\net8.0\test-1.exe
+D:\3_курс\2 sem\тиопо\test-1\test-1\bin\Debug\net8.0\test-1.deps.json
+D:\3_курс\2 sem\тиопо\test-1\test-1\bin\Debug\net8.0\test-1.runtimeconfig.json
+D:\3_курс\2 sem\тиопо\test-1\test-1\bin\Debug\net8.0\test-1.dll
+D:\3_курс\2 sem\тиопо\test-1\test-1\bin\Debug\net8.0\test-1.pdb
+D:\3_курс\2 sem\тиопо\test-1\test-1\bin\Debug\net8.0\Counter.dll
+D:\3_курс\2 sem\тиопо\test-1\test-1\bin\Debug\net8.0\Counter.pdb
+D:\3_курс\2 sem\тиопо\test-1\test-1\obj\Debug\net8.0\test-1.csproj.AssemblyReference.cache
+D:\3_курс\2 sem\тиопо\test-1\test-1\obj\Debug\net8.0\test-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3_курс\2 sem\тиопо\test-1\test-1\obj\Debug\net8.0\test-1.AssemblyInfoInputs.cache
+D:\3_курс\2 sem\тиопо\test-1\test-1\obj\Debug\net8.0\test-1.AssemblyInfo.cs
+D:\3_курс\2 sem\тиопо\test-1\test-1\obj\Debug\net8.0\test-1.csproj.CoreCompileInputs.cache
+D:\3_курс\2 sem\тиопо\test-1\test-1\obj\Debug\net8.0\test-1.dll
+D:\3_курс\2 sem\тиопо\test-1\test-1\obj\Debug\net8.0\refint\test-1.dll
+D:\3_курс\2 sem\тиопо\test-1\test-1\obj\Debug\net8.0\test-1.pdb
+D:\3_курс\2 sem\тиопо\test-1\test-1\obj\Debug\net8.0\test-1.genruntimeconfig.cache
+D:\3_курс\2 sem\тиопо\test-1\test-1\obj\Debug\net8.0\ref\test-1.dll
+D:\3_курс\2 sem\тиопо\test-1\test-1\obj\Debug\net8.0\test-1.csproj.Up2Date
+D:\3_курс\os_lab20\test-1\bin\Debug\net8.0\test-1.exe
+D:\3_курс\os_lab20\test-1\bin\Debug\net8.0\test-1.deps.json
+D:\3_курс\os_lab20\test-1\bin\Debug\net8.0\test-1.runtimeconfig.json
+D:\3_курс\os_lab20\test-1\bin\Debug\net8.0\test-1.dll
+D:\3_курс\os_lab20\test-1\bin\Debug\net8.0\test-1.pdb
+D:\3_курс\os_lab20\test-1\bin\Debug\net8.0\Counter.dll
+D:\3_курс\os_lab20\test-1\bin\Debug\net8.0\Counter.pdb
+D:\3_курс\os_lab20\test-1\obj\Debug\net8.0\test-1.csproj.AssemblyReference.cache
+D:\3_курс\os_lab20\test-1\obj\Debug\net8.0\test-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3_курс\os_lab20\test-1\obj\Debug\net8.0\test-1.AssemblyInfoInputs.cache
+D:\3_курс\os_lab20\test-1\obj\Debug\net8.0\test-1.AssemblyInfo.cs
+D:\3_курс\os_lab20\test-1\obj\Debug\net8.0\test-1.csproj.CoreCompileInputs.cache
+D:\3_курс\os_lab20\test-1\obj\Debug\net8.0\test-1.sourcelink.json
+D:\3_курс\os_lab20\test-1\obj\Debug\net8.0\test-1.csproj.Up2Date
+D:\3_курс\os_lab20\test-1\obj\Debug\net8.0\test-1.dll
+D:\3_курс\os_lab20\test-1\obj\Debug\net8.0\refint\test-1.dll
+D:\3_курс\os_lab20\test-1\obj\Debug\net8.0\test-1.pdb
+D:\3_курс\os_lab20\test-1\obj\Debug\net8.0\test-1.genruntimeconfig.cache
+D:\3_курс\os_lab20\test-1\obj\Debug\net8.0\ref\test-1.dll

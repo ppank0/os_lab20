@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vXCJ8hZTQIbnhXE0xUZiKD8ZuZvl30d9uqKeF13/+/o0VwiV5USp7+ECTAX2pvBdhEcETJIokszubRubqrC38Q==",
+  "success": true,
+  "projectFilePath": "D:\\3_курс\\os_lab20\\test-1\\test-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\opencover\\4.7.1221\\opencover.4.7.1221.nupkg.sha512"
+  ],
+  "logs": []
+}
