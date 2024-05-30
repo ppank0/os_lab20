@@ -28,6 +28,7 @@ jobs:
     #    fetch-depth: 0
 
     # Install the .NET Core workload
+    - uses: actions/checkout@v4
     - name: Install .NET Core
       uses: actions/setup-dotnet@v4
       with:
@@ -41,8 +42,8 @@ jobs:
  #   - name: Execute unit tests
   #    run: dotnet test
       
-#    - name: Restore dependencies
-#      run: dotnet restore  # Восстановление зависимостей проекта
+    - name: Restore dependencies
+      run: dotnet restore  # Восстановление зависимостей проекта
 
     - name: Build
       run: dotnet build --no-restore
