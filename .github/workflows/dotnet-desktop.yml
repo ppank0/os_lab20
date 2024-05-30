@@ -44,8 +44,8 @@ jobs:
 #    - name: Restore dependencies
 #      run: dotnet restore  # Восстановление зависимостей проекта
 
-    - name: Build project
-      run: dotnet build --configuration Release  # Сборка проекта
+    - name: Build
+      run: dotnet build --no-restore
 
-    - name: Run tests
-      run: dotnet test --configuration Release --no-restore --verbosity normal  # Запуск тестов
+    - name: Test
+      run: dotnet test --no-build --verbosity normal
