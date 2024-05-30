@@ -41,8 +41,8 @@ jobs:
  #   - name: Execute unit tests
   #    run: dotnet test
       
-    - name: Restore dependencies
-      run: dotnet restore  # Восстановление зависимостей проекта
+#    - name: Restore dependencies
+#      run: dotnet restore  # Восстановление зависимостей проекта
 
     - name: Build project
       run: dotnet build --configuration Release  # Сборка проекта
